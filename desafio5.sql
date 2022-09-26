@@ -7,7 +7,7 @@ FROM SpotifyClone.history hi
    ORDER BY reproducoes DESC, cancao ASC
    LIMIT 2
     
--- Quais são as 2 músicas mais tocadas
+-- Quais são as 2 músicas mais tocadas 
 -- 2 colunas
 -- song AS cancao
 -- quantidade de pessoas que já escutou a música AS reproducoes
