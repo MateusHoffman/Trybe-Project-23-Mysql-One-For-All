@@ -2,7 +2,7 @@
 
 ## :hammer_and_wrench: Tools/Ferramentas
 
-* MySQL
+* MySQL 
 * SQL
 * Docker
 * Docker compose
